@@ -1,3 +1,2 @@
 # Upward-Bound
-
-## New game
+New Game
