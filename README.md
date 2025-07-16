@@ -39,5 +39,10 @@ d - move right
 Main Theme: Super Mario Theme
 Based on the Super Mario Characters by Nintendo
 
+## What You Learned and are MOST Proud of!:
+Mr. Arciga: I learned how to code and create my own assets for a video game!
+
+Luis: I learned how to code video game physics.
+
 # Replit Link: Click to Play Here!
 https://replit.com/@barciga/Pygame-Platformer
